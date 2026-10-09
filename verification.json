@@ -1,0 +1,37 @@
+{
+  "width": 810,
+  "height": 1080,
+  "duration": 3,
+  "decodedFrames": [
+    {
+      "time": 0.033,
+      "file": "decoded-0_033.png"
+    },
+    {
+      "time": 0.55,
+      "file": "decoded-0_55.png"
+    },
+    {
+      "time": 0.85,
+      "file": "decoded-0_85.png"
+    },
+    {
+      "time": 1.4,
+      "file": "decoded-1_4.png"
+    },
+    {
+      "time": 1.5,
+      "file": "decoded-1_5.png"
+    },
+    {
+      "time": 1.95,
+      "file": "decoded-1_95.png"
+    },
+    {
+      "time": 2.966,
+      "file": "decoded-2_966.png"
+    }
+  ],
+  "decodePassed": true,
+  "recordedAt": "2026-10-09T10:25:14.057Z"
+}

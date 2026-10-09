@@ -1,0 +1,76 @@
+{
+  "box": {
+    "x": 64.796875,
+    "y": 197.65625,
+    "width": 950.40625,
+    "height": 752.4375
+  },
+  "rows": [
+    {
+      "text": "TWICE\n\nInteraction & Development",
+      "rect": {
+        "x": 64.796875,
+        "y": 197.65625,
+        "width": 950.40625,
+        "height": 187.859375,
+        "top": 197.65625,
+        "right": 1015.203125,
+        "bottom": 385.515625,
+        "left": 64.796875
+      }
+    },
+    {
+      "text": "The Damai\n\nDesign & Development",
+      "rect": {
+        "x": 64.796875,
+        "y": 385.515625,
+        "width": 950.40625,
+        "height": 187.859375,
+        "top": 385.515625,
+        "right": 1015.203125,
+        "bottom": 573.375,
+        "left": 64.796875
+      }
+    },
+    {
+      "text": "FABRIC™\n\nDesign & Development",
+      "rect": {
+        "x": 64.796875,
+        "y": 573.375,
+        "width": 950.40625,
+        "height": 187.859375,
+        "top": 573.375,
+        "right": 1015.203125,
+        "bottom": 761.234375,
+        "left": 64.796875
+      }
+    },
+    {
+      "text": "Aanstekelijk\n\nDesign & Development",
+      "rect": {
+        "x": 64.796875,
+        "y": 761.234375,
+        "width": 950.40625,
+        "height": 187.859375,
+        "top": 761.234375,
+        "right": 1015.203125,
+        "bottom": 949.09375,
+        "left": 64.796875
+      }
+    }
+  ],
+  "hover": {
+    "rect": {
+      "x": 502.5,
+      "y": 324.55999755859375,
+      "width": 297,
+      "height": 297,
+      "top": 324.55999755859375,
+      "right": 799.5,
+      "bottom": 621.5599975585938,
+      "left": 502.5
+    },
+    "class": "mouse-pos-list-image no-select active",
+    "transform": "matrix(1, 0, 0, 1, -148.5, -154.44)"
+  }
+}

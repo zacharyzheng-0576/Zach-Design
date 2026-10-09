@@ -1,0 +1,20 @@
+{
+  "command": [
+    "live-photo-packager",
+    "pack",
+    "--photo",
+    "$HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/01-live-cover.png",
+    "--video",
+    "$HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/01-live-preview.mp4",
+    "--output",
+    "$HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/live-photo",
+    "--name",
+    "Zach-Design-02-About-Button",
+    "--still-time",
+    "1.5"
+  ],
+  "exitCode": 0,
+  "stdout": "Created:\n  photo: $HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/live-photo/Zach-Design-02-About-Button.jpg\n  video: $HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/live-photo/Zach-Design-02-About-Button.mov\n  assetIdentifier: 6AD3547A-9F24-40BA-A956-1828F18DFB28\n",
+  "stderr": "",
+  "recordedAt": "2026-10-09T10:23:35.149803+00:00"
+}

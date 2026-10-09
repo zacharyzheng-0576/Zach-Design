@@ -1,0 +1,15 @@
+{
+  "command": [
+    "live-photo-packager",
+    "verify",
+    "--photo",
+    "$HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/live-photo/Zach-Design-02-About-Button.jpg",
+    "--video",
+    "$HOME/Desktop/网页｜Logo｜交互设计/04_选题与脚本/提示词拆站/02_Dennis-弹性圆形按钮/素材/live-photo/Zach-Design-02-About-Button.mov",
+    "--live-photo"
+  ],
+  "exitCode": 0,
+  "stdout": "assetIdentifier: 6AD3547A-9F24-40BA-A956-1828F18DFB28\nstill-image-time(s): 1.500\nPASS: image MakerApple[17], movie content identifier, and timed still-image-time agree.\nPASS: PHLivePhoto.request accepted the paired files.\n",
+  "stderr": "",
+  "recordedAt": "2026-10-09T10:23:35.298235+00:00"
+}

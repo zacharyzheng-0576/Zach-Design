@@ -1,0 +1,58 @@
+Dennis Snellenberg · 第二页提示词图 · 五种排版提案
+日期：2026-10-09
+状态：用户于 2026-10-09 确认五种方案，并要求仅提示词正文保留中文。五张已生成至 prompt-cards；正文与生成指令以该目录的 prompt.txt 和 generation-prompts.json 为准。
+
+本轮要求
+使用 GPT 内置 imagegen 逐张生成五种方案；每张准确包含 Zach DESIGN。
+3:4 竖版，以能在手机上阅读的中文提示词为主体。
+只研究 FABRIC™ 作品行的悬停预览；沿用同一份文案，比较排版而不是改变内容。
+不使用矩形/圆角卡片容器、阴影浮层、玻璃材质、霓虹光晕、渐变球体或无意义装饰图标。
+已先给用户看参考及方案，收到确认后生成。GitHub 仍交给 Kimi。
+
+01 微软文字风
+方向：参考 Metro / Microsoft Design Language 的文字层级；不采用磁贴界面。
+版式：白底、黑色文字、少量纯蓝；左上两行大标题，正文贯穿同一左对齐轴。
+用字号、字重、段间距划分触发/跟随/收起，Zach DESIGN 放左下。
+参考原设计师：https://www.austintaylor.design/work/microsoft-design-language
+参考图：https://images.squarespace-cdn.com/content/v1/61973493e649d959d813edd3/441a9847-25e2-4951-ad54-3992f9894f77/baselidv2_2048x1536_3.png
+
+02 苹果留白风
+方向：克制的大标题与舒展的正文，不使用 Apple 标志或产品图。
+版式：暖白底，顶部居中短标题，正文在中下部左对齐，少量蓝色参数强调。
+正文保持可读，不为留白缩成小字；Zach DESIGN 作为小号署名置底。
+Pinterest：https://au.pinterest.com/pin/572731277613104708/
+参考图：https://i.pinimg.com/736x/1d/2f/ee/1d2fee16bf5d666d2e8b9956692f6628.jpg
+
+03 瑞士网格风
+方向：编辑设计的秩序，科技感来自信息组织。
+版式：左侧窄栏放 02 / HOVER，右侧宽栏是短标题及提示词。
+黑白为主，极少蓝色；隐形网格，不把文字装入方框；Zach DESIGN 与来源对齐。
+Pinterest：https://www.pinterest.com/pin/665406913731168691/
+参考图：https://i.pinimg.com/originals/23/16/d4/2316d4101919191bc769082ba5a3da70.png
+
+04 技术手册风
+方向：严谨、安静，像一页交互制作说明。
+版式：小号页眉、细分隔线、宽正文栏；关键参数单独对齐，不画表格外框。
+数字及英文标注用等宽字，中文用清晰无衬线字体；Zach DESIGN 放页眉。
+Pinterest：https://in.pinterest.com/pin/2533343538073217/
+参考图：https://i.pinimg.com/736x/aa/c0/b0/aac0b01a48fd9da40c5689968f64b31a.jpg
+
+05 黑白实验排版
+方向：强烈的字号对比，保留正文阅读秩序。
+版式：黑底白字，顶部大号 HOVER，下面宽栏中文提示词；小号来源贴底。
+只让英文标题有少量错位或裁切，中文正文不旋转、不变形、不重叠。
+Zach DESIGN 保持完整清晰。参考图的白底可改为黑底，属于本次设计提案。
+Pinterest：https://in.pinterest.com/pin/517069600970956234/
+参考图：https://i.pinimg.com/736x/26/d9/d9/26d9d9c090eaa901c222c13cb06c9ed7.jpg
+
+共用内容结构（以下为提案历史，成品逐字文案见 prompt-cards）
+用户最终要求所有标题与标注均为英文，原提案中文标题未用于成品。
+正文必须包含：进入时展开；图片、蓝色 View 圆钮与文字的不同跟随速度；离开收回；原图与原站对照。
+已核实原站参数：图片/按钮/文字跟随分母 12/7/6，是更新时的位置插值比例，不是毫秒。
+图片 fixed，pointer-events:none，尺寸 clamp(10em,27.5vw,25em)，translate(-50%,-52%)。
+展开/收起 .4s；原站展开曲线 cubic-bezier(0.34,1,0.64,1)，收起 cubic-bezier(0.36,0,0.66,0)。
+四图 strip 第三项位移 -50%，切换 .6s，Power2.easeInOut。
+像素对照需相同视口、字体和素材；一页提示词不是已验收的复现实现。
+对照证据：source/original-index-new.js、source/original.html、source/recording/frames.json。
+
+这些参考用于确定视觉方向，不代表已下载模板、购买素材或获得可编辑源文件。

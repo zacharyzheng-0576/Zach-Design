@@ -1,0 +1,225 @@
+{
+  "url": "https://dennissnellenberg.com/",
+  "title": "Dennis Snellenberg • Freelance Designer & Developer",
+  "width": 810,
+  "height": 1080,
+  "dpr": 1,
+  "sections": [
+    {
+      "class": "section home-intro",
+      "rect": {
+        "x": 0,
+        "y": -43,
+        "width": 810,
+        "height": 582,
+        "top": -43,
+        "right": 810,
+        "bottom": 539,
+        "left": 0
+      }
+    },
+    {
+      "class": "section work-grid large-work-grid",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "class": "section work-tiles work-tiles-home",
+      "rect": {
+        "x": 0,
+        "y": 539,
+        "width": 810,
+        "height": 698.765625,
+        "top": 539,
+        "right": 810,
+        "bottom": 1237.765625,
+        "left": 0
+      }
+    },
+    {
+      "class": "section center-grid-btn center-grid-btn-home",
+      "rect": {
+        "x": 0,
+        "y": 1237.765625,
+        "width": 810,
+        "height": 239.75,
+        "top": 1237.765625,
+        "right": 810,
+        "bottom": 1477.515625,
+        "left": 0
+      }
+    },
+    {
+      "class": "footer-rounded-div",
+      "rect": {
+        "x": 0,
+        "y": 1477.515625,
+        "width": 810,
+        "height": 0,
+        "top": 1477.515625,
+        "right": 810,
+        "bottom": 1477.515625,
+        "left": 0
+      }
+    },
+    {
+      "class": "footer-wrap footer-footer-wrap theme-dark",
+      "rect": {
+        "x": 0,
+        "y": 1477.515625,
+        "width": 810,
+        "height": 823.234375,
+        "top": 1477.515625,
+        "right": 810,
+        "bottom": 2300.75,
+        "left": 0
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "About me",
+      "class": "btn-click magnetic ",
+      "strength": "100",
+      "textStrength": "50",
+      "rect": {
+        "x": 560.5143432617188,
+        "y": 359.6237487792969,
+        "width": 144.00250244140625,
+        "height": 144.00250244140625,
+        "top": 359.6237487792969,
+        "right": 704.516845703125,
+        "bottom": 503.6262512207031,
+        "left": 560.5143432617188
+      }
+    },
+    {
+      "text": "Get in touch",
+      "class": "btn-click magnetic ",
+      "strength": "100",
+      "textStrength": "50",
+      "rect": {
+        "x": 496.8112487792969,
+        "y": 1799.170654296875,
+        "width": 144.00247192382812,
+        "height": 144.00244140625,
+        "top": 1799.170654296875,
+        "right": 640.813720703125,
+        "bottom": 1943.173095703125,
+        "left": 496.8112487792969
+      }
+    },
+    {
+      "text": "info@dennissnellenberg.com",
+      "class": "btn-click magnetic",
+      "strength": "25",
+      "textStrength": "15",
+      "rect": {
+        "x": 97.18690490722656,
+        "y": 2016.16943359375,
+        "width": 276.39178466796875,
+        "height": 68.0048828125,
+        "top": 2016.16943359375,
+        "right": 373.5786895751953,
+        "bottom": 2084.17431640625,
+        "left": 97.18690490722656
+      }
+    },
+    {
+      "text": "+31 6 27 84 74 30",
+      "class": "btn-click magnetic",
+      "strength": "25",
+      "textStrength": "15",
+      "rect": {
+        "x": 381.5775451660156,
+        "y": 2016.170166015625,
+        "width": 199.59494018554688,
+        "height": 68.00341796875,
+        "top": 2016.170166015625,
+        "right": 581.1724853515625,
+        "bottom": 2084.173583984375,
+        "left": 381.5775451660156
+      }
+    },
+    {
+      "text": "Awwwards",
+      "class": "btn-click magnetic",
+      "strength": "20",
+      "textStrength": "10",
+      "rect": {
+        "x": 490.2341003417969,
+        "y": 2251.65576171875,
+        "width": 63.781768798828125,
+        "height": 30.5947265625,
+        "top": 2251.65576171875,
+        "right": 554.015869140625,
+        "bottom": 2282.25048828125,
+        "left": 490.2341003417969
+      }
+    },
+    {
+      "text": "Instagram",
+      "class": "btn-click magnetic",
+      "strength": "20",
+      "textStrength": "10",
+      "rect": {
+        "x": 578.812255859375,
+        "y": 2251.65576171875,
+        "width": 57.40673828125,
+        "height": 30.5947265625,
+        "top": 2251.65576171875,
+        "right": 636.218994140625,
+        "bottom": 2282.25048828125,
+        "left": 578.812255859375
+      }
+    },
+    {
+      "text": "Twitter",
+      "class": "btn-click magnetic",
+      "strength": "20",
+      "textStrength": "10",
+      "rect": {
+        "x": 661.015380859375,
+        "y": 2251.656005859375,
+        "width": 40.15673828125,
+        "height": 30.59423828125,
+        "top": 2251.656005859375,
+        "right": 701.172119140625,
+        "bottom": 2282.250244140625,
+        "left": 661.015380859375
+      }
+    },
+    {
+      "text": "LinkedIn",
+      "class": "btn-click magnetic",
+      "strength": "20",
+      "textStrength": "10",
+      "rect": {
+        "x": 725.968505859375,
+        "y": 2251.65576171875,
+        "width": 48.87548828125,
+        "height": 30.5947265625,
+        "top": 2251.65576171875,
+        "right": 774.843994140625,
+        "bottom": 2282.25048828125,
+        "left": 725.968505859375
+      }
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-SGWQQRQ15Y&gtm=45je6a72v881548593za208zd881548593xf1&_p=1791541210067&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=963884114.1791541213&frm=0&pscdl=noapi&rcb=9&sr=810x1080&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84&uam=&uamb=0&uap=macOS&uapv=26.5.0&uaw=0&ul=zh-cn&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791541212&sct=1&seg=0&dl=https%3A%2F%2Fdennissnellenberg.com%2F&dt=Dennis%20Snellenberg%20%E2%80%A2%20Freelance%20Designer%20%26%20Developer&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=10456",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "browser": "152.0.7977.84",
+  "capturedAt": "2026-10-09T10:20:53.564Z"
+}

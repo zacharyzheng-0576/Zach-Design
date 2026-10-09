@@ -1,0 +1,18 @@
+Zach Design · 提示词拆站 02 · About me 弹性圆形按钮
+
+来源：https://dennissnellenberg.com/
+原站设计与开发：Dennis Snellenberg。
+本次内容：进入 About me 圆形按钮后，蓝色由下向上填入；指针在按钮内向左上、右上和右下移动时，按钮与文字被牵引；移出后弹回。
+
+live-photo 里的 Zach-Design-02-About-Button.jpg 和 Zach-Design-02-About-Button.mov 是同一组 Live Photo。
+两者必须共同保留；只保存 JPG 会失去动态。01-live-preview.mp4 是视频预览，不是单独可导入的 Live Photo。
+
+文件已通过本地标识、静态帧时间与 macOS PHLivePhoto.request 配对检查。
+iPhone 照片与小红书尚未实机验证，也没有自动发布。
+
+使用路径：
+1. 在 Mac“照片”选择“文件 > 导入”，同时选中这组 JPG 和 MOV。
+2. 确认识别为一个可播放的 Live Photo；若是独立图片和视频，应先排查，不按成功处理。
+3. 从“照片”里的这个 Live Photo 通过 AirDrop 分享给 iPhone。
+4. 在 iPhone“照片”长按确认可播放，再从小红书图文入口选择。
+本次未自动操作个人照片图库或发送文件。

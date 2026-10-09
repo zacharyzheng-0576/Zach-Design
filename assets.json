@@ -1,0 +1,36 @@
+{
+  "tool": "built-in image_gen",
+  "generatedDate": "2026-10-09",
+  "assets": [
+    {
+      "variant": "01-microsoft",
+      "label": "Microsoft-inspired",
+      "source": "$HOME/.codex/generated_images/01a11626-fed7-7040-84ea-96f452cbc2f0/exec-a4c80848-916a-41b7-84ec-8e59055c0754.png",
+      "output": "$HOME/Documents/ChatGPT/网页｜Logo｜交互设计 2/output/dennis-02/prompt-cards/01-microsoft.png"
+    },
+    {
+      "variant": "02-apple",
+      "label": "Apple-inspired",
+      "source": "$HOME/.codex/generated_images/01a11626-fed7-7040-84ea-96f452cbc2f0/exec-70854bcc-0371-47fc-913e-f9ef59deed27.png",
+      "output": "$HOME/Documents/ChatGPT/网页｜Logo｜交互设计 2/output/dennis-02/prompt-cards/02-apple.png"
+    },
+    {
+      "variant": "03-swiss",
+      "label": "Swiss grid",
+      "source": "$HOME/.codex/generated_images/01a11626-fed7-7040-84ea-96f452cbc2f0/exec-711ad360-4bcc-42fb-8d1f-13bca1070bdc.png",
+      "output": "$HOME/Documents/ChatGPT/网页｜Logo｜交互设计 2/output/dennis-02/prompt-cards/03-swiss.png"
+    },
+    {
+      "variant": "04-technical",
+      "label": "Technical manual",
+      "source": "$HOME/.codex/generated_images/01a11626-fed7-7040-84ea-96f452cbc2f0/exec-cf5a8ec8-ff42-4e07-b37e-8c8abc50dd83.png",
+      "output": "$HOME/Documents/ChatGPT/网页｜Logo｜交互设计 2/output/dennis-02/prompt-cards/04-technical.png"
+    },
+    {
+      "variant": "05-experimental",
+      "label": "Black editorial",
+      "source": "$HOME/.codex/generated_images/01a11626-fed7-7040-84ea-96f452cbc2f0/exec-f4f8cabe-e09b-4261-94b4-7ecc2ce9d33d.png",
+      "output": "$HOME/Documents/ChatGPT/网页｜Logo｜交互设计 2/output/dennis-02/prompt-cards/05-experimental.png"
+    }
+  ]
+}
